@@ -14,9 +14,6 @@ An advanced **multimodal AI system** that synthesizes information from multiple 
 - **🔊 Soundscape Suggestions**: AI-generated audio recommendations that complement visual content
 - **🖥️ Interactive Web Interface**: Professional Streamlit application for easy interaction
 
-## 🚀 Live Demo
-
-[Insert your deployed app link here]
 
 ## 🛠️ Technology Stack
 
